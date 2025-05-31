@@ -3,7 +3,6 @@ Track, Analyse, and Predict the Productivity Performance of the Working teams in
 
 
 
-```markdown
 # Garment Productivity Predictor
 
 A binary classifier predicting underperforming teams in garment manufacturing.
@@ -37,7 +36,6 @@ A binary classifier predicting underperforming teams in garment manufacturing.
    D[Non-Linear Models] --> E[Naive Bayes]
    D --> F[Random Forest]
    D --> G[Gradient Boosting]
-   ```
 
 4. **Evaluation**:
    - Nested cross-validation
